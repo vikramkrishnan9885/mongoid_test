@@ -1,5 +1,7 @@
 class Movie
   include Mongoid::Document
+  include Mongoid::Timestamps
+  
   field :title, type: String
   field :type, type: String
   field :rate, type: String
