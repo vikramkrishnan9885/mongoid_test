@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  type: 
+  rate: MyString
+  year: 1
+  release_date: 2017-09-19
+  rumtime: 
+  votes: 1
+  countries: 
+  languages: 
+  genres: 
+  filming_locations: 
+  metascore: MyString
+  simple_plot: MyText
+  plot: MyText
+  url_imdb: MyString
+  url_post: MyString
+  directors: 
+  actors: 
+
+two:
+  title: MyString
+  type: 
+  rate: MyString
+  year: 1
+  release_date: 2017-09-19
+  rumtime: 
+  votes: 1
+  countries: 
+  languages: 
+  genres: 
+  filming_locations: 
+  metascore: MyString
+  simple_plot: MyText
+  plot: MyText
+  url_imdb: MyString
+  url_post: MyString
+  directors: 
+  actors: 
